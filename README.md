@@ -4,6 +4,7 @@ The motivation, details of the implementation and the results are summarized  in
 # Firt method: Means
 ![image](/Conditional-generation-using-VDVAE-main/image12.png)
 
+
 # Means results
 ![image](/Conditional-generation-using-VDVAE-main/image9.png)
 
